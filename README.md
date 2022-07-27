@@ -7,5 +7,6 @@
 ## Problema 3 : Video Juego Space Invaders
 
 
-# practica 2
-# Sistemas Operativos 2 - Laboratorio
+# 
+Practica 2
+Sistemas Operativos 2 - Laboratorio
